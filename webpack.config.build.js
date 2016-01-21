@@ -52,7 +52,7 @@ module.exports = {
         main: ['index.html', '*.js'],
       },
       updateStrategy: 'changed',
-      scope: '/html-audio-test/',
+      scope: 'game-skeleton-webpack-experiment',
     }),
     new HtmlWepbackPlugin({
       filename: 'index.html',
