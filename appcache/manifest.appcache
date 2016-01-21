@@ -1,10 +1,10 @@
 CACHE MANIFEST
-#hash:e610e4d7bc5aae86ce52
+#hash:b95dae0306c9ccafc92e
 
 CACHE:
-game-skeleton-webpack-experiment
-game-skeleton-webpack-experimentmain.js
-game-skeleton-webpack-experiment97f1caea45a6d0abf9365f80f14a1af0.png
+/game-skeleton-webpack-experiment/
+/game-skeleton-webpack-experiment/main.js
+/game-skeleton-webpack-experiment/97f1caea45a6d0abf9365f80f14a1af0.png
 
 NETWORK:
 *
