@@ -1,10 +1,10 @@
 CACHE MANIFEST
-#hash:942981ad4453def49da8
+#hash:e610e4d7bc5aae86ce52
 
 CACHE:
-/html-audio-test/
-/html-audio-test/main.js
-/html-audio-test/97f1caea45a6d0abf9365f80f14a1af0.png
+game-skeleton-webpack-experiment
+game-skeleton-webpack-experimentmain.js
+game-skeleton-webpack-experiment97f1caea45a6d0abf9365f80f14a1af0.png
 
 NETWORK:
 *
